@@ -1,0 +1,31 @@
+_repo: Cerddi-r-Mynydd-Du--13-Sef-Caneuon-Hen-a-Diweddar_22528
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Griffiths, W., called G. ap Lleision
+    alias: Griffiths, William, Gwilym ap Lleision
+    gutenberg_agent_id: '25387'
+    url: http://www.gutenberg.org/2009/agents/25387
+  photographer:
+    agent_name: Morgan, Llew
+    birthdate: 1885
+    deathdate: 1960
+    gutenberg_agent_id: '36358'
+    url: http://www.gutenberg.org/2009/agents/36358
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2007-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22528'
+language: cy
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Welsh poetry'
+- !lcc 'PB'
+title: "Cerddi'r Mynydd Du\r\nSef Caneuon Hen a Diweddar"
+url: http://www.gutenberg.org/ebooks/22528
