@@ -16,6 +16,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22528#Cerddi-r-Mynydd-Du--13-Sef-Caneuon-Hen-a-Diweddar
 gutenberg_issued: '2007-09-06'
 gutenberg_type: Text
 identifiers:
